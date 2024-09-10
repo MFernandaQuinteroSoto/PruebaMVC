@@ -1,0 +1,22 @@
+﻿<!-- está etiqueta es cuando está hecha con razor -->
+@model asp_y_mvc.Models.Demo
+
+@{ //cuado solo es una linea no es necesario las {}
+    Layout = null;
+} <!-- sintaxis de Razor para definir un bloque de código -->
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        Hello World!!
+    </div>
+    <div>@Model.Message</div>
+    <div>@Html.Raw(Model.MessageHTML)</div> 
+</body>
+</html>

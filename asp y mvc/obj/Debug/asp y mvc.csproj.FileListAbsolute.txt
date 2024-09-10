@@ -1,0 +1,74 @@
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\asp y mvc.dll.config
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\asp y mvc.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\asp y mvc.pdb
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Helpers.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Mvc.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Razor.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Webpages.Deployment.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Webpages.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Webpages.Razor.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Razor.xml
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Webpages.xml
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Webpages.Deployment.xml
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Webpages.Razor.xml
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Helpers.xml
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\System.Web.Mvc.xml
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\es\System.Web.Razor.resources.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\es\System.Web.Webpages.resources.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\es\System.Web.Webpages.Deployment.resources.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\es\System.Web.Webpages.Razor.resources.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\es\System.Web.Helpers.resources.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\bin\es\System.Web.Mvc.resources.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\obj\Debug\asp y mvc.csprojResolveAssemblyReference.cache
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\obj\Debug\asp y mvc.dll
+c:\users\aprendiz\documents\visual studio 2013\Projects\asp y mvc\asp y mvc\obj\Debug\asp y mvc.pdb
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\asp y mvc.dll.config
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\asp y mvc.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\asp y mvc.pdb
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Helpers.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Mvc.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Razor.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Webpages.Deployment.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Webpages.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Webpages.Razor.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Razor.xml
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Webpages.xml
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Webpages.Deployment.xml
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Webpages.Razor.xml
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Helpers.xml
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\System.Web.Mvc.xml
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\es\System.Web.Razor.resources.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\es\System.Web.Webpages.resources.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\es\System.Web.Webpages.Deployment.resources.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\es\System.Web.Webpages.Razor.resources.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\es\System.Web.Helpers.resources.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\bin\es\System.Web.Mvc.resources.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\obj\Debug\asp y mvc.csprojResolveAssemblyReference.cache
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\obj\Debug\asp y mvc.dll
+F:\mafe\6 trimestre\johnatan\asp y mvc\asp y mvc\obj\Debug\asp y mvc.pdb
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\asp y mvc.dll.config
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\asp y mvc.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\asp y mvc.pdb
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Webpages.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Webpages.xml
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\es\System.Web.Razor.resources.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\es\System.Web.Webpages.resources.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\es\System.Web.Helpers.resources.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\bin\es\System.Web.Mvc.resources.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\obj\Debug\asp y mvc.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\obj\Debug\asp y mvc.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\obj\Debug\asp y mvc.csproj.Up2Date
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\obj\Debug\asp y mvc.dll
+C:\Users\LENOVO\Desktop\asp y mvc-20240822T235528Z-001\asp y mvc\asp y mvc\obj\Debug\asp y mvc.pdb

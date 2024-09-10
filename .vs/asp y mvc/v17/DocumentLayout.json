@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\asp y mvc-20240822T235528Z-001\\asp y mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC212A6-3C1B-4032-A29C-179901BE3C07}|asp y mvc\\asp y mvc.csproj|c:\\users\\lenovo\\desktop\\asp y mvc-20240822t235528z-001\\asp y mvc\\asp y mvc\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDC212A6-3C1B-4032-A29C-179901BE3C07}|asp y mvc\\asp y mvc.csproj|solutionrelative:asp y mvc\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC212A6-3C1B-4032-A29C-179901BE3C07}|asp y mvc\\asp y mvc.csproj|c:\\users\\lenovo\\desktop\\asp y mvc-20240822t235528z-001\\asp y mvc\\asp y mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC212A6-3C1B-4032-A29C-179901BE3C07}|asp y mvc\\asp y mvc.csproj|solutionrelative:asp y mvc\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC212A6-3C1B-4032-A29C-179901BE3C07}|asp y mvc\\asp y mvc.csproj|c:\\users\\lenovo\\desktop\\asp y mvc-20240822t235528z-001\\asp y mvc\\asp y mvc\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC212A6-3C1B-4032-A29C-179901BE3C07}|asp y mvc\\asp y mvc.csproj|solutionrelative:asp y mvc\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC212A6-3C1B-4032-A29C-179901BE3C07}|asp y mvc\\asp y mvc.csproj|c:\\users\\lenovo\\desktop\\asp y mvc-20240822t235528z-001\\asp y mvc\\asp y mvc\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC212A6-3C1B-4032-A29C-179901BE3C07}|asp y mvc\\asp y mvc.csproj|solutionrelative:asp y mvc\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\asp y mvc-20240822T235528Z-001\\asp y mvc\\asp y mvc\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "asp y mvc\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\asp y mvc-20240822T235528Z-001\\asp y mvc\\asp y mvc\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "asp y mvc\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T00:02:04.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\asp y mvc-20240822T235528Z-001\\asp y mvc\\asp y mvc\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "asp y mvc\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\asp y mvc-20240822T235528Z-001\\asp y mvc\\asp y mvc\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "asp y mvc\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:00:54.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\asp y mvc-20240822T235528Z-001\\asp y mvc\\asp y mvc\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "asp y mvc\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\asp y mvc-20240822T235528Z-001\\asp y mvc\\asp y mvc\\Models\\Repository.cs",
+              "RelativeToolTip": "asp y mvc\\Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:00:43.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\asp y mvc-20240822T235528Z-001\\asp y mvc\\asp y mvc\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "asp y mvc\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\asp y mvc-20240822T235528Z-001\\asp y mvc\\asp y mvc\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "asp y mvc\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:00:34.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
